@@ -1,0 +1,5 @@
+CREATE DATABASE SalesETL;
+GO
+
+USE SalesETL;
+GO
