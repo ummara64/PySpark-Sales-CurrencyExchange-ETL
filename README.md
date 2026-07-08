@@ -5,7 +5,6 @@
 Senior Data Engineer - Test/
 ├── Notebooks/
 │   ├── ETL_Pipeline.ipynb
-│   └── logs/pipeline.log
 ├── utils/
 │   ├── config.py
 │   ├── database.py
