@@ -24,15 +24,14 @@ EXCHANGE_RATE_URL = "https://api.exchangerate-api.com/v4/latest/USD"
 ERROR_THRESHOLD = 5
 
 # SQL Server
-# JDBC_URL = "jdbc:sqlserver://localhost:1433;databaseName=SalesDB"
 JDBC_URL = (
-    "jdbc:sqlserver://localhost:1433;"
+    "jdbc:sqlserver://localhost;"
     "databaseName=SalesETL;"
     "encrypt=true;"
     "trustServerCertificate=true;"
 )
 DB_PROPERTIES = {
-    "user": "sa",
-    "password": "Test@12345",   
+    "user": "",
+    "password": "",   
     "driver": "com.microsoft.sqlserver.jdbc.SQLServerDriver"
 }
