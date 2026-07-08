@@ -20,7 +20,7 @@ Senior Data Engineer - Test/
 ├── Diagrams/
 │   ├── High Level Architecture.png
 │   └── Low Level architecture.png
-└── TechnicalAssessment 5.pdf
+└── .gitignore
 ```
 
 ## Pipeline (Notebooks/ETL_Pipeline.ipynb)
